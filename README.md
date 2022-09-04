@@ -1,7 +1,7 @@
 <h1>Oi, eu sou o Raine <img src="https://raw.githubusercontent.com/RaineCorrea/RaineCorrea/master/hi.gif" width="30"></h1>
 <img src="https://komarev.com/ghpvc/?username=RaineCorrea&color=blueviolet" alt="Profile views" /> 
 
-- 💻  Developer Frontend
+- 💻  Frontend Developer
 
 - 🌱  Atualmente estudando **JavaScript, TypeScript, React e VTEX IO**
 
